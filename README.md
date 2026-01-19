@@ -1,4 +1,4 @@
-# Sungjea Kwak - Wireless Network Engineer
+# Sungjea Kwak - Embedded Firmware QA Engineer
 
 ## 🚀 About Me
 I have over three years of experience as a Wireless Network Test Engineer, specializing in LTE and 5G NR protocol validation, automation testing, and network performance optimization. At Samsung Electronics America, I have developed automation test scripts using Python and PyTest, enhancing test efficiency and reducing manual efforts in validating cellular protocols across various mobile devices.
