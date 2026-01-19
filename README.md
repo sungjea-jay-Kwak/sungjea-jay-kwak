@@ -8,7 +8,7 @@ I have over three years of experience as a Embedded Firmware QA Engineer, Wi-Fi 
 - Languages: Python, C/C++
 - Scripting: Linux Shell (Bash)
 - Test Automation: Pytest, Selenium, Appium
-- 
+
 ## 📫 Contact
 - Email: sungjea.kwak@gmail.com
 - LinkdIn: linkedin.com/in/sungjea-kwak
