@@ -5,12 +5,11 @@ I have over three years of experience as a Wireless Network Test Engineer, speci
 
 My expertise extends to analyzing OTA signaling and network traffic using tools like QXDM, Wireshark, and ELT, enabling the identification and resolution of complex wireless connectivity issues. Additionally, I have experience working in Agile environments, collaborating with cross-functional teams to improve system performance, streamline testing processes, and ensure seamless integration with network operators.
 
-## 🛠️ Skills & Technologies
-- Program Language: Python, C/C++, Java
-- Frameworks/Libs: Selenium, TestNG, RobotFramework, Pytest
-- Tools: Wireshark, QXDM, ShannonDM, ELT, XCAL, XCAL-M
-- Test Equipment: Signal Generators, Function Generators, Oscilloscopes, Multimeters
-
+  ## 🛠️ Skills & Technologies
+- Languages: Python, C/C++
+- Scripting: Linux Shell (Bash)
+- Test Automation: Pytest, Selenium, Appium
+- 
 ## 📫 Contact
 - Email: sungjea.kwak@gmail.com
 - LinkdIn: linkedin.com/in/sungjea-kwak
